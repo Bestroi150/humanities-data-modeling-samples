@@ -1,0 +1,199 @@
+{
+  "inscriptions": [
+    {
+      "ID": "001",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "450",
+      "DateCertainty": "approximate",
+      "TextType": "Funerary",
+      "Location": "Athens",
+      "Coordinates": {
+        "Latitude": 37.9838,
+        "Longitude": 23.7275
+      }
+    },
+    {
+      "ID": "002",
+      "Region": "Boeotia",
+      "Material": "Bronze",
+      "Date": "390",
+      "DateCertainty": "range",
+      "TextType": "Honorific",
+      "Location": "Orchomenos",
+      "Coordinates": {
+        "Latitude": 38.3247,
+        "Longitude": 23.0875
+      }
+    },
+    {
+      "ID": "003",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "450",
+      "DateCertainty": "approximate",
+      "TextType": "Dedication",
+      "Location": "Athens",
+      "Coordinates": {
+        "Latitude": 37.9838,
+        "Longitude": 23.7275
+      }
+    },
+    {
+      "ID": "004",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "450",
+      "DateCertainty": "approximate",
+      "TextType": "Funerary",
+      "Location": "Athens",
+      "Coordinates": {
+        "Latitude": 37.9838,
+        "Longitude": 23.7275
+      }
+    },
+    {
+      "ID": "005",
+      "Region": "Boeotia",
+      "Material": "Bronze",
+      "Date": "390",
+      "DateCertainty": "approximate",
+      "TextType": "Votive",
+      "Location": "Thebes",
+      "Coordinates": {
+        "Latitude": 38.3200,
+        "Longitude": 23.3181
+      }
+    },
+    {
+      "ID": "006",
+      "Region": "Corinth",
+      "Material": "Limestone",
+      "Date": "uncertain",
+      "DateCertainty": "unknown",
+      "TextType": "Funerary",
+      "Location": "Corinth",
+      "Coordinates": {
+        "Latitude": 37.8945,
+        "Longitude": 23.0859
+      }
+    },
+    {
+      "ID": "007",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "450",
+      "DateCertainty": "approximate",
+      "TextType": "Honorific",
+      "Location": "Piraeus",
+      "Coordinates": {
+        "Latitude": 37.9338,
+        "Longitude": 23.6408
+      }
+    },
+    {
+      "ID": "008",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "475",
+      "DateCertainty": "range",
+      "TextType": "Funerary",
+      "Location": "Athens",
+      "Coordinates": {
+        "Latitude": 37.9838,
+        "Longitude": 23.7275
+      }
+    },
+    {
+      "ID": "009",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "460",
+      "DateCertainty": "approximate",
+      "TextType": "Dedication",
+      "Location": "Athens",
+      "Coordinates": {
+        "Latitude": 37.9838,
+        "Longitude": 23.7275
+      }
+    },
+    {
+      "ID": "010",
+      "Region": "Boeotia",
+      "Material": "Bronze",
+      "Date": "450",
+      "DateCertainty": "approximate",
+      "TextType": "Votive",
+      "Location": "Thebes",
+      "Coordinates": {
+        "Latitude": 38.3200,
+        "Longitude": 23.3181
+      }
+    },
+    {
+      "ID": "011",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "480",
+      "DateCertainty": "approximate",
+      "TextType": "Funerary",
+      "Location": "Marathon",
+      "Coordinates": {
+        "Latitude": 38.1325,
+        "Longitude": 24.0231
+      }
+    },
+    {
+      "ID": "012",
+      "Region": "Corinth",
+      "Material": "Bronze",
+      "Date": "410",
+      "DateCertainty": "approximate",
+      "TextType": "Honorific",
+      "Location": "Corinth",
+      "Coordinates": {
+        "Latitude": 37.8945,
+        "Longitude": 23.0859
+      }
+    },
+    {
+      "ID": "013",
+      "Region": "Boeotia",
+      "Material": "Stone",
+      "Date": "uncertain",
+      "DateCertainty": "unknown",
+      "TextType": "Votive",
+      "Location": "Tanagra",
+      "Coordinates": {
+        "Latitude": 38.3500,
+        "Longitude": 23.6000
+      }
+    },
+    {
+      "ID": "014",
+      "Region": "Attica",
+      "Material": "Marble",
+      "Date": "470",
+      "DateCertainty": "approximate",
+      "TextType": "Dedication",
+      "Location": "Eleusis",
+      "Coordinates": {
+        "Latitude": 38.1314,
+        "Longitude": 23.5628
+      }
+    },
+    {
+      "ID": "015",
+      "Region": "Boeotia",
+      "Material": "Bronze",
+      "Date": "380",
+      "DateCertainty": "approximate",
+      "TextType": "Funerary",
+      "Location": "Thebes",
+      "Coordinates": {
+        "Latitude": 38.3200,
+        "Longitude": 23.3181
+      }
+    }
+  ]
+}

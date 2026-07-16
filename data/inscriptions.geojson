@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7275, 37.9838]
+      },
+      "properties": {
+        "ID": "001",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "450",
+        "DateCertainty": "approximate",
+        "TextType": "Funerary",
+        "Location": "Athens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.0875, 38.3247]
+      },
+      "properties": {
+        "ID": "002",
+        "Region": "Boeotia",
+        "Material": "Bronze",
+        "Date": "390",
+        "DateCertainty": "range",
+        "TextType": "Honorific",
+        "Location": "Orchomenos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7275, 37.9838]
+      },
+      "properties": {
+        "ID": "003",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "450",
+        "DateCertainty": "approximate",
+        "TextType": "Dedication",
+        "Location": "Athens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7275, 37.9838]
+      },
+      "properties": {
+        "ID": "004",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "450",
+        "DateCertainty": "approximate",
+        "TextType": "Funerary",
+        "Location": "Athens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3181, 38.3200]
+      },
+      "properties": {
+        "ID": "005",
+        "Region": "Boeotia",
+        "Material": "Bronze",
+        "Date": "390",
+        "DateCertainty": "approximate",
+        "TextType": "Votive",
+        "Location": "Thebes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.0859, 37.8945]
+      },
+      "properties": {
+        "ID": "006",
+        "Region": "Corinth",
+        "Material": "Limestone",
+        "Date": "uncertain",
+        "DateCertainty": "unknown",
+        "TextType": "Funerary",
+        "Location": "Corinth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.6408, 37.9338]
+      },
+      "properties": {
+        "ID": "007",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "450",
+        "DateCertainty": "approximate",
+        "TextType": "Honorific",
+        "Location": "Piraeus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7275, 37.9838]
+      },
+      "properties": {
+        "ID": "008",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "475",
+        "DateCertainty": "range",
+        "TextType": "Funerary",
+        "Location": "Athens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7275, 37.9838]
+      },
+      "properties": {
+        "ID": "009",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "460",
+        "DateCertainty": "approximate",
+        "TextType": "Dedication",
+        "Location": "Athens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3181, 38.3200]
+      },
+      "properties": {
+        "ID": "010",
+        "Region": "Boeotia",
+        "Material": "Bronze",
+        "Date": "450",
+        "DateCertainty": "approximate",
+        "TextType": "Votive",
+        "Location": "Thebes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.0231, 38.1325]
+      },
+      "properties": {
+        "ID": "011",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "480",
+        "DateCertainty": "approximate",
+        "TextType": "Funerary",
+        "Location": "Marathon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.0859, 37.8945]
+      },
+      "properties": {
+        "ID": "012",
+        "Region": "Corinth",
+        "Material": "Bronze",
+        "Date": "410",
+        "DateCertainty": "approximate",
+        "TextType": "Honorific",
+        "Location": "Corinth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.6000, 38.3500]
+      },
+      "properties": {
+        "ID": "013",
+        "Region": "Boeotia",
+        "Material": "Stone",
+        "Date": "uncertain",
+        "DateCertainty": "unknown",
+        "TextType": "Votive",
+        "Location": "Tanagra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.5628, 38.1314]
+      },
+      "properties": {
+        "ID": "014",
+        "Region": "Attica",
+        "Material": "Marble",
+        "Date": "470",
+        "DateCertainty": "approximate",
+        "TextType": "Dedication",
+        "Location": "Eleusis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3181, 38.3200]
+      },
+      "properties": {
+        "ID": "015",
+        "Region": "Boeotia",
+        "Material": "Bronze",
+        "Date": "380",
+        "DateCertainty": "approximate",
+        "TextType": "Funerary",
+        "Location": "Thebes"
+      }
+    }
+  ]
+}

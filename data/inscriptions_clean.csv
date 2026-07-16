@@ -1,0 +1,16 @@
+ID,Region,Material,Date,DateCertainty,TextType,Location,Latitude,Longitude
+001,Attica,Marble,450,approximate,Funerary,Athens,37.9838,23.7275
+002,Boeotia,Bronze,390,range,Honorific,Orchomenos,38.3247,23.0875
+003,Attica,Marble,450,approximate,Dedication,Athens,37.9838,23.7275
+004,Attica,Marble,450,approximate,Funerary,Athens,37.9838,23.7275
+005,Boeotia,Bronze,390,approximate,Votive,Thebes,38.3200,23.3181
+006,Corinth,Limestone,uncertain,unknown,Funerary,Corinth,37.8945,23.0859
+007,Attica,Marble,450,approximate,Honorific,Piraeus,37.9338,23.6408
+008,Attica,Marble,475,range,Funerary,Athens,37.9838,23.7275
+009,Attica,Marble,460,approximate,Dedication,Athens,37.9838,23.7275
+010,Boeotia,Bronze,450,approximate,Votive,Thebes,38.3200,23.3181
+011,Attica,Marble,480,approximate,Funerary,Marathon,38.1325,24.0231
+012,Corinth,Bronze,410,approximate,Honorific,Corinth,37.8945,23.0859
+013,Boeotia,Stone,uncertain,unknown,Votive,Tanagra,38.3500,23.6000
+014,Attica,Marble,470,approximate,Dedication,Eleusis,38.1314,23.5628
+015,Boeotia,Bronze,380,approximate,Funerary,Thebes,38.3200,23.3181
