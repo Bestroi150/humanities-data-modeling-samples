@@ -1,5 +1,4 @@
 # Humanities Data Modeling Samples
-Public
 
 **An interactive demonstration of data formats in Digital Humanities**
 
