@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Thinking in Data: Empowering Humanities Students Through Structured Methods"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - name: "Kristiyan Simeonov"
+    orcid: "https://orcid.org/0009-0007-3641-8432"
+    affiliation:
+      - name: "Sofia University 'St. Kliment Ohridski'
+        url: "https://www.uni-sofia.bg/eng"
+repository-code: "https://github.com/Bestroi150/humanities-data-modeling-samples"
+url: "https://github.com/Bestroi150/humanities-data-modeling-samples"
+abstract: "An interactive demonstration of data formats in Digital Humanities, featuring teaching modules, sample datasets, and web-based visualization tools for understanding data modeling, format conversion, and geographic information systems. This project empowers humanities students with practical skills in structured data methods."
+keywords:
+  - "digital humanities"
+  - "data formats"
+  - "CSV"
+  - "JSON"
+  - "XML"
+  - "GeoJSON"
+  - "GIS"
+  - "data modeling"
+  - "tidy data"
+  - "humanities education"
+license: "CC-BY-4.0"
+version: 1.0.0
+date-released: 2026-07-16
